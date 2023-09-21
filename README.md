@@ -29,6 +29,7 @@
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=skyblue"/>
   <img alt="R" src ="https://img.shields.io/badge/R-orange.svg?&style=for-the-badge&logo=R&logoColor=#276DC3"/>
   <img alt="C++" src ="https://img.shields.io/badge/C++-black.svg?&style=for-the-badge&logo=C++&logoColor=#276DC3"/>
+  <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 </div>
 #### I've used it before.
 
